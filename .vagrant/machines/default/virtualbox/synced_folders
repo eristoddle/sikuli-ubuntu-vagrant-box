@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/scripts":{"guestpath":"/home/vagrant/scripts","hostpath":"/home/stephanm/baservicesdev/scripts","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/stephanm/baservicesdev/sikuli-box","disabled":false}}}
